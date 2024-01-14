@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
-==============================================================================================================================Frontend developer------------------* 🌍  I'm based in Russia* ✉️  You can contact me at [alabuzhev.danil@mail.ru](mailto:alabuzhev.danil@mail.ru)* 🧠  I'm learning Angular,React
+Frontend developer
+* 🌍  I'm based in Russia
+* ✉️  You can contact me at [alabuzhev.danil@mail.ru](mailto:alabuzhev.danil@mail.ru)
+* 🧠  I'm learning Angular,React
 
 <a href="https://www.github.com/Kuroky79" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kuroky79?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
